@@ -61,7 +61,7 @@ npm install npm@latest -g
 1. Clone the repository locally with the git command:
 
    ```sh
-   git clone https://github.com/berkbeleli/Modern-RealEstate-Client.git
+   git clone https://github.com/migramirez2/Modern-RealEstate-Client.git
    ```
 
 2. Install NPM packages:
@@ -86,12 +86,12 @@ Moderne is released under the MIT License. Please refer to the `LICENSE` file fo
 
 Project Repository: [moderne](https://github.com/nightFuryman/Modern-RealEstate-Client)
 
-Portfolio: [berkbeleli-portfolio](https://portfolio-25c95.web.app/)
+Portfolio: [developer-portfolio](https://portfolio-25c95.web.app/)
 
   
 ## ScreenShots
 
-  <a href="https://github.com/berkbeleli/Modern-RealEstate-Client">
+  <a href="https://github.com/migramirez2/Modern-RealEstate-Client">
     <img src="https://user-images.githubusercontent.com/44535117/235322727-614daabd-c054-48b8-a3d8-b6ff651588e2.png" alt="moderne-screenshot">
     <img src="https://user-images.githubusercontent.com/44535117/235322743-03b69d58-4621-4f85-bb4b-0e92d1dde8d4.png" alt="moderne-screenshot">
     <img src="https://user-images.githubusercontent.com/44535117/235322739-c783cd7f-7f8d-4c2a-957a-02da579668e9.png" alt="moderne-screenshot">
